@@ -1,7 +1,7 @@
 import React, {Fragment} from 'react';
 import './index.css';
-import boxImg from '/home/oztuzel/Documents/FrontendMentor/faq-accordion-card-main/faq-accordion-card/src/images/illustration-box-desktop.svg';
-import womanImg from '/home/oztuzel/Documents/FrontendMentor/faq-accordion-card-main/faq-accordion-card/src/images/illustration-woman-online-desktop.svg';
+import boxImg from './images/illustration-box-desktop.svg';
+import womanImg from './images/illustration-woman-online-desktop.svg';
 import Row from './components/Row.js';
 
 
